@@ -1,0 +1,9 @@
+{
+  "name": "adt",
+  "version": "0.0.1",
+  "description": "Algebraic Data Types",
+  "main": "index.js",
+  "repository": "git@github.com:choonkending/adt.git",
+  "author": "Ken Ding <aenkil@gmail.com>",
+  "license": "MIT"
+}
