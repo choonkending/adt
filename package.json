@@ -9,5 +9,8 @@
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-preset-flow": "^6.23.0"
+  },
+  "dependencies": {
+    "mocha": "^3.4.1"
   }
 }
